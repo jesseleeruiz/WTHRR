@@ -4,6 +4,8 @@
 //
 //  Created by Jesse Ruiz on 11/6/20.
 //
+// TODO: Get real data from a weather API: https://www.metaweather.com
+
 
 import SwiftUI
 
