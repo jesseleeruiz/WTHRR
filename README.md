@@ -1,6 +1,6 @@
 # Welcome to WTHRR
 
-![WTHRR Image]()
+![WTHRR Image](https://github.com/jesseleeruiz/WTHRR/blob/main/WTHRRLogo.png)
 
 A weather app built with SwiftUI
 
